@@ -6,3 +6,8 @@ https://github.com/iamshaunjp/react-context-hooks
 
 - :sunny: vscodeスニペットAutoComplete-別コンポーネントは直接JSX内に書き込むと、autoComplete候補が出てくる。-> わざわざimport書かなくて済む
 
+## 3.Adding a Context & Provider
+
+- :white_check_mark: createContext, ラップするところまで
+
+
