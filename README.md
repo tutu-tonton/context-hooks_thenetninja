@@ -18,3 +18,8 @@ https://github.com/iamshaunjp/react-context-hooks
 
 - Consumer使うパターン
 
+## 6 Updating Context Data
+
+- テーマ切り替えボタン実装。
+- コンテキスト内にメソッド配置。そのメソッドがcontextで流れる。ボタンクリックでメソッド発動するように。
+
