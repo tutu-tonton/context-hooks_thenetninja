@@ -10,4 +10,7 @@ https://github.com/iamshaunjp/react-context-hooks
 
 - :white_check_mark: createContext, ラップするところまで
 
+## 4 Accessing Context part1
+
+- Appからのcontextがnavbar,booklistまで渡るようにした
 
