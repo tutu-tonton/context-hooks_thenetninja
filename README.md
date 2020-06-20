@@ -14,3 +14,7 @@ https://github.com/iamshaunjp/react-context-hooks
 
 - Appからのcontextがnavbar,booklistまで渡るようにした
 
+## 5 Accessing Context part2
+
+- Consumer使うパターン
+
