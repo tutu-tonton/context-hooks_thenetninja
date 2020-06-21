@@ -45,3 +45,7 @@ https://github.com/iamshaunjp/react-context-hooks
 - Navbar,ThemeToggleコンポーネントをfnComponentに書き換え
 - 複数のcontextを使う際の書き方が非常に簡潔になる
 
+## 15 Creating Context with Functional Components
+
+- BookContext作成。
+
