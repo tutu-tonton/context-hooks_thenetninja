@@ -27,3 +27,16 @@ https://github.com/iamshaunjp/react-context-hooks
 
 - 認証状態を管理するcontext追加。
 
+## 8 Consuming Multiple Contexts
+
+- １つのコンポーネント内で、複数のcontext使うには？
+
+## 9-12 基本的なHooksについて
+
+- https://github.com/tutu-tonton/react-hooks-thenetninja
+
+## 13 Hooks with Context
+
+- BookListComponentをfnComponentに書き換え
+- useContextの使い方
+
