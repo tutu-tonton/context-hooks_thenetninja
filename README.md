@@ -40,3 +40,8 @@ https://github.com/iamshaunjp/react-context-hooks
 - BookListComponentをfnComponentに書き換え
 - useContextの使い方
 
+## 14 Multiple Contexts using Hooks
+
+- Navbar,ThemeToggleコンポーネントをfnComponentに書き換え
+- 複数のcontextを使う際の書き方が非常に簡潔になる
+

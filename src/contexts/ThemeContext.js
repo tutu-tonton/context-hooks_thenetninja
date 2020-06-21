@@ -1,7 +1,19 @@
+// import React, { Component, createContext } from 'react';
+
+// export const ThemeContext = createContext();
+
+// const ThemeContextProvider= () => {
+//   return (  );
+// }
+
+// export default ThemeContextProvider;
+
+//========================================
+//  class Component
+//========================================
 import React, { Component, createContext } from 'react';
 
 export const ThemeContext = createContext();
-
 class ThemeContextProvider extends Component {
 	state = {
 		isLightTheme: true,
