@@ -23,3 +23,7 @@ https://github.com/iamshaunjp/react-context-hooks
 - テーマ切り替えボタン実装。
 - コンテキスト内にメソッド配置。そのメソッドがcontextで流れる。ボタンクリックでメソッド発動するように。
 
+## 7 Creating Multiple Contexts
+
+- 認証状態を管理するcontext追加。
+
