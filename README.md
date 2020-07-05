@@ -1,6 +1,8 @@
-# React Context & Hooks Tutorial - The Net Ninja
+# ⚛️ React Context & Hooks Tutorial - The Net Ninja
 
 https://github.com/iamshaunjp/react-context-hooks
+
+![](https://github.com/tutu-tonton/context-hooks_thenetninja/blob/master/Jul-06-2020%2005-34-58.gif)
 
 ## 1 Introduction
 
